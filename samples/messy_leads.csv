@@ -1,0 +1,7 @@
+Created Date,Full Name,Email Address,Mobile No,Company Name,City,State,Country,Owner,Lead Status,Notes,Campaign,Time,Extra Col
+2026-06-01,Alice Smith,alice@example.com,+91 9999988888,Google,Hyderabad,Telangana,India,owner@test.com,Follow-up,Wants a demo,leads_on_demand,Immediate,Some extra info
+2026-06-02,Bob Jones,bob@example.com,9888877777,Microsoft,Chennai,Tamil Nadu,India,owner@test.com,No Answer,Called thrice,meridian_tower,3 Months,
+2026-06-03,Charlie,charlie@example.com;charlie2@example.com,8888888888,Meta,Bangalore,Karnataka,India,owner@test.com,Sale Closed,Onboarded,eden_park,6 Months,
+2026-06-04,Invalid Lead,,,,Yahoo,Mumbai,,India,owner@test.com,Junk,No contact info,,
+2026-06-05,David Brown,,7777766666,Apple,Pune,Maharashtra,India,owner@test.com,Interested,Prefers WhatsApp,,
+2026-06-06,Eve White,eve@example.com,,Amazon,Delhi,Delhi,India,owner@test.com,Busy,Call back,,
