@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Papa from 'papaparse';
 
-const BACKEND_URL = 'http://localhost:5001';
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'https://grow-easy-csv-importer-backend.vercel.app';
 const BATCH_SIZE = 10;
 
 export default function App() {
