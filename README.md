@@ -94,7 +94,7 @@ Make sure you have Node.js installed (v18 or higher is recommended; tested on v2
 ## How to Test — Full Assignment Checklist
 
 Use the sample file included at `samples/messy_leads.csv` for all tests below.
-Open the app at **`http://localhost:5174/`** (or `5173` if that port was free).
+Open the app at **`http://localhost:5173/`**.
 
 ---
 
@@ -184,7 +184,7 @@ Open the app at **`http://localhost:5174/`** (or `5173` if that port was free).
 ---
 
 > **Quick Smoke Test (2 minutes):**
-> 1. Open `http://localhost:5174/`
+> 1. Open `http://localhost:5173/`
 > 2. Click **Import Leads via CSV** card
 > 3. Upload `samples/messy_leads.csv`
 > 4. Click orange **Upload File** button
